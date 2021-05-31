@@ -12,6 +12,7 @@ Seznam vseh uporabljenih materialov in komponent:
 - 20x žice
 
 Postopek:
+
 Na začetku povežemo LCD zaslon z arduinom in potenciometrom. Nato lahko povežemo ultrasonični senzor na arduino. Senzor in LCD je potrebno priključiti na napajanje in preveriti ali se LCD zaslon odziva. Potem lahko naložimo kodo in jo po potrebi spreminjamo. Sedaj je vezje pripravljeno za uporabo.
 
 Ocena delovanja in natančnost:
