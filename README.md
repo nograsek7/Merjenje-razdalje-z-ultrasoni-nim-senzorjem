@@ -1,4 +1,4 @@
-# Merjenje-razdalje-z-ultrasoničnim-senzorjem
+# Merjenje-razdalje-z-ultrasoničnim-senzorjem Nograšek, Kotar
 Prikaz merjenje razdalje z ultrasoničnim senzorjem. Pri tem sva uporabila LCD zaslon za prikaz razdalje. Razdaljo sva prikazala v metrih in centimetrih za boljšo natančnost. Cilj naloge je izmeriti razdaljo s pomočjo ultrasoničnega senzorja, ta podatek pa izpisati na LCD zaslon. 
 
 Seznam vseh uporabljenih materialov in komponent:
