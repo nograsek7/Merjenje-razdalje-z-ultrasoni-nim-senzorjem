@@ -14,7 +14,7 @@ Seznam vseh uporabljenih materialov in komponent:
 Postopek:
 Na začetku povežemo LCD zaslon z arduinom in potenciometrom. Nato lahko povežemo ultrasonični senzor na arduino. Senzor in LCD je potrebno priključiti na napajanje in preveriti ali se LCD zaslon odziva. Potem lahko naložimo kodo in jo po potrebi spreminjamo. Sedaj je vezje pripravljeno za uporabo.
 
-Ocena delovanja in Natančnost:
+Ocena delovanja in natančnost:
 
 Pri uporabi ultasoničnega senzorja za merjenje razdalje sva bila presenečena zaradi same natančnosti. Senzor je meril zelo natančno. Odstopanja je bilo zelo malo, približno +/- 0,4 cm. Ostopanje je v mejah normale, glede na uporabljen material. Samo vezje pa deluje hitro in brez napak.
 
