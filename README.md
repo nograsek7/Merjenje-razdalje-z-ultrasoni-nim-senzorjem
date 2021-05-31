@@ -6,7 +6,7 @@ Seznam vseh uporabljenih materialov in komponent:
 - 1x Arduino UNO
 - 1x breadboard
 - 1x Napajalni kabel za Arduino
-- 1x Ultrasonični senzor 1PCS
+- 1x Ultrasonični senzor HC-SR04
 - 1x zaslon
 - 1x Potenciometer (10kΩ)
 - 20x žice
